@@ -1,1 +1,1 @@
-Trying to build decentralized accounting system based on the blockcjain technology.
+Trying to build decentralized accounting system based on the blockchain technology.
